@@ -1,0 +1,14 @@
+# Compiled Class Files
+*.class
+*.jar
+*.log
+
+# IDE Folders
+.vscode/
+.idea/
+
+# Build Folders
+target/
+bin/
+out/
+build/
