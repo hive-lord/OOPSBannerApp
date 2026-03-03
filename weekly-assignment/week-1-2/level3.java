@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class level2 {
+public class level3 {
     /*Write a TemperaturConversion program, given the temperature in Celsius as input outputs the temperature in Fahrenheit
 Hint => 
 Create a celsius variable and take the temperature as user input
@@ -44,7 +44,7 @@ O/P => The salary is INR ___ and bonus is INR ___. Hence Total Income is INR ___
         System.out.println("The salary is INR " + salary + " and bonus is INR " + bonus + ". Hence Total Income is INR " + income);
     }
     public static void main(String[] args) {
-        level2 obj = new level2();
+        level3 obj = new level3();
         obj.Q1();
         obj.Q2();
         obj.Q3();
