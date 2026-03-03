@@ -4,11 +4,11 @@
 *.log
 
 # IDE Folders
-.vscode/
-.idea/
+*.vscode/
+*.idea/
 
 # Build Folders
-target/
-bin/
-out/
-build/
+*target/
+*bin/
+*out/
+*build/
